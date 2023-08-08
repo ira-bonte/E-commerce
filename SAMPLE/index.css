@@ -1,0 +1,13 @@
+.search-bar
+{
+    padding-left: 10px;
+    width: 313px;
+    height: 34px;
+    border: 1px solid #000000;
+    border-radius: 33px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+}
