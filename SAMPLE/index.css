@@ -44,8 +44,8 @@ p{
 } */
 .icons{
     float:right;
-    margin-right: 30px;
-    justify-content: space-between;
+    margin-right: 50px;
+    /* justify-content: space-between; */
 }
 body{
     /* background-color: peru; */
@@ -74,4 +74,9 @@ button{
     padding-right: 10px;
     padding-bottom: 30px;
    
+}
+.knife1{
+    background-color: aliceblue;
+    font-weight: bold;
+    display: flex;
 }
